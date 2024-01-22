@@ -17,16 +17,19 @@ Oracle Database:
 Features: Oracle Database is known for its extensive set of features and capabilities, especially in terms of advanced analytics, partitioning, and high availability.
 Performance: Both SQL Server and Oracle are robust in terms of performance, and the choice often depends on specific use cases and preferences.
 Licensing: Oracle is often perceived as having higher licensing costs, which may be a consideration for budget-conscious organizations.
+
 MySQL:
 
 Features: MySQL is an open-source RDBMS and is known for its simplicity. It might lack some of the advanced features found in SQL Server or Oracle but is suitable for many smaller to mid-sized applications.
 Performance: MySQL is lightweight and can be very fast for certain workloads. However, SQL Server's performance can be competitive, especially for enterprise-level applications.
 Licensing: MySQL is open-source and generally free to use, making it a cost-effective choice for many projects.
+
 PostgreSQL:
 
 Features: PostgreSQL is known for its extensibility and support for custom data types, indexing methods, and procedural languages. It is often favored for its adherence to SQL standards.
 Performance: Both SQL Server and PostgreSQL offer good performance, and the choice may depend on specific optimization requirements and workload characteristics.
 Licensing: PostgreSQL is open-source and has a permissive open-source license, making it a cost-effective option for many applications.
+
 IBM Db2:
 
 Features: IBM Db2 offers a range of features, including robust support for data warehousing, analytics, and integration with IBM's broader ecosystem of tools.
